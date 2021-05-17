@@ -39,9 +39,10 @@ DCT decryption example:
     stego.py -d -i inputFile.png 
 
 ## Comparing
-   To compare between 2 images
+   To get the MSE, PNSR comparing result:
 Just go to compare.py and edit the name of images you want to compare.
-Then run the code
+Then run the code.
+You will find Excel file with results.
  
 ### Python libraries used
 •	OpenCV “cv2” (computer vision)
