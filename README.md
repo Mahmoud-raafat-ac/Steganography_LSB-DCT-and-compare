@@ -37,3 +37,12 @@ LSB decryption example:
 DCT decryption example:
 
     stego.py -d -i inputFile.png 
+
+# Python libraries used
+•	OpenCV “cv2” (computer vision)
+•	Argparse (Parser for command-line options)
+•	Pillow “PIL” (Image processing)
+•	Numpy (working with arrays)
+# Future Work
+•	Work with JPG images
+•	Work with RGBA images
