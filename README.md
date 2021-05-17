@@ -1,5 +1,6 @@
 ## Linear algebra course project
-![Uploading Untitled-4.png…]()
+![Untitled-4 240x240](https://user-images.githubusercontent.com/75928839/118435111-8d076880-b6de-11eb-9636-2210c197f940.jpg)
+
 
 # Steganography_LSB-DCT
 Steganography Text at images usnig LSB, DCT and compare between them using MSE, PSNR
