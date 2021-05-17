@@ -38,6 +38,11 @@ DCT decryption example:
 
     stego.py -d -i inputFile.png 
 
+##Comparing
+   To compare between 2 images
+Just go to compare.py and edit the name of images you want to compare.
+Then run the code
+ 
 ### Python libraries used
 •	OpenCV “cv2” (computer vision)
 
