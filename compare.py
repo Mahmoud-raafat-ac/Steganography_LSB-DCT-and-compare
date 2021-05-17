@@ -18,9 +18,9 @@ def PSNR(img1, img2):
 #PSNR--end
 
 #comparison and write xls
-original = cv2.imread('test.png')
-lsbEncoded = cv2.imread('LSB_test.png')
-dctEncoded = cv2.imread('DCT_test.png')
+original = cv2.imread('test.png') #put your img
+lsbEncoded = cv2.imread('LSB_test.png') #put your img
+dctEncoded = cv2.imread('DCT_test.png') #put your img
 
 book = xlwt.Workbook()
 sheet1=book.add_sheet("Sheet 1")
