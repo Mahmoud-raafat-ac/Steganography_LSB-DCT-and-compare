@@ -1,4 +1,4 @@
-## Linear algebra course project Cairo University
+# Linear algebra course project Cairo University
 ![Untitled-4 240x240](https://user-images.githubusercontent.com/75928839/118435111-8d076880-b6de-11eb-9636-2210c197f940.jpg)
 
 
